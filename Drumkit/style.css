@@ -1,0 +1,105 @@
+h2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+.container {
+  width: 100%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+.container img {
+  width: 70%;
+  height: auto;
+}
+.container .btn {
+  position: absolute;
+  top: 52%;
+  left: 16%;
+  background: transparent;
+  border: none !important;
+  font-size:0;
+  padding: 15px 70px;
+  cursor: pointer;
+  border-radius: 15px;
+}
+.container .btn2 {
+  position: absolute;
+  top: 30%;
+  left: 25%;
+  background: transparent;
+  border: none !important;
+  font-size:0;
+  padding: 35px 90px;
+  border: none;
+  cursor: pointer;
+  border-radius: 30px;
+}
+.container .btn3 {
+  position: absolute;
+  top: 69%;
+  left: 30%;
+  background: transparent;
+  border: none !important;
+  font-size:0;
+  padding: 40px 80px;
+  cursor: pointer;
+  border-radius: 30px;
+}
+.container .btn4 {
+  position: absolute;
+  top: 53%;
+  left: 40%;
+  background: transparent;
+  border: none !important;
+  font-size:0;
+  padding: 27px 53px;
+  cursor: pointer;
+  border-radius: 50px;
+}
+.container .btn5 {
+  position: absolute;
+  top: 88%;
+  left: 46%;
+  background: transparent;
+  border: none !important;
+  font-size:0;
+  padding: 30px 70px;
+  cursor: pointer;
+  border-radius: 15px;
+}
+.container .btn6 {
+  position: absolute;
+  top: 25%;
+  left: 65%;
+  background: transparent;
+  border: none !important;
+  font-size:0;
+  padding: 40px 78px;
+  cursor: pointer;
+  border-radius: 15px;
+}
+.container .btn7 {
+  position: absolute;
+  top: 51%;
+  left: 53%;
+  background: transparent;
+  border: none !important;
+  font-size:0;
+  padding: 35px 70px;
+  cursor: pointer;
+  border-radius: 30px;
+}
+.container .btn8 {
+  position: absolute;
+  top: 75%;
+  left: 65%;
+  background: transparent;
+  border: none !important;
+  font-size:0;
+  padding: 30px 90px;
+  cursor: pointer;
+  border-radius: 30px;
+}
